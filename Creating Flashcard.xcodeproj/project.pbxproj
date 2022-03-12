@@ -16,6 +16,7 @@
 		1E3CF40627DD289B002CDC8A /* Creating_FlashcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3CF40527DD289B002CDC8A /* Creating_FlashcardTests.swift */; };
 		1E3CF41027DD289B002CDC8A /* Creating_FlashcardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3CF40F27DD289B002CDC8A /* Creating_FlashcardUITests.swift */; };
 		1E3CF41227DD289B002CDC8A /* Creating_FlashcardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3CF41127DD289B002CDC8A /* Creating_FlashcardUITestsLaunchTests.swift */; };
+		1E3CF41F27DD2C8E002CDC8A /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3CF41E27DD2C8E002CDC8A /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1E3CF40B27DD289B002CDC8A /* Creating FlashcardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Creating FlashcardUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E3CF40F27DD289B002CDC8A /* Creating_FlashcardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Creating_FlashcardUITests.swift; sourceTree = "<group>"; };
 		1E3CF41127DD289B002CDC8A /* Creating_FlashcardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Creating_FlashcardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1E3CF41E27DD2C8E002CDC8A /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1E3CF3F027DD289A002CDC8A /* SceneDelegate.swift */,
 				1E3CF3F227DD289A002CDC8A /* ViewController.swift */,
 				1E3CF3F427DD289A002CDC8A /* Main.storyboard */,
+				1E3CF41E27DD2C8E002CDC8A /* CreationViewController.swift */,
 				1E3CF3F727DD289B002CDC8A /* Assets.xcassets */,
 				1E3CF3F927DD289B002CDC8A /* LaunchScreen.storyboard */,
 				1E3CF3FC27DD289B002CDC8A /* Info.plist */,
@@ -261,6 +264,7 @@
 				1E3CF3F327DD289A002CDC8A /* ViewController.swift in Sources */,
 				1E3CF3EF27DD289A002CDC8A /* AppDelegate.swift in Sources */,
 				1E3CF3F127DD289A002CDC8A /* SceneDelegate.swift in Sources */,
+				1E3CF41F27DD2C8E002CDC8A /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
